@@ -1,0 +1,20 @@
+{
+  "name": "part2finals",
+  "description": "Simple Test Form",
+  "version": "1.0.0",
+  "main": "app.js",
+  "engines": {
+    "node": "4.1.1"
+  },
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "assert": "^1.4.0",
+    "express": "3.x",
+    "fs": "0.0.2",
+    "kerberos": "0.0.21",
+    "mongodb": "^2.1.19"
+  }
+}
